@@ -180,7 +180,7 @@ BIO:
 
 Hello, I'm g0ofycat! I'm a Fullstack Developer and Web Designer with over 5 years of experience.
 
-My main language is Python, and I also work with Luau, CSS, JavaScript / TypeScript (plus frameworks), and C.
+My main language is Python, and I also work with Luau, HTML, CSS, JavaScript / TypeScript, C, and C++.
 
 I am currently exploring Machine Learning, AI, and NLP (Natural Language Processing).
 
