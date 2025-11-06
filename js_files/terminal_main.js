@@ -206,9 +206,7 @@ I specialize in areas such as Mechanics / Systems, UI/UX design, and many other 
         responseText =
           "\nEXPERIENCE:\n\n" +
           "- <b>5 Years of Programming</b>\n\n" +
-          "- <b>2 Years UI/UX</b>\n\n" +
-          "- <b>2 Years Building</b>\n\n" +
-          "- <b>2 Years Animating</b>\n\n";
+          "- <b>2 Years UI/UX</b>\n\n"
         break;
 
       case "info":
@@ -231,7 +229,7 @@ I specialize in areas such as Mechanics / Systems, UI/UX design, and many other 
           '- <a href="https://youtu.be/8ygDUydN2uo" target="_blank">Custom Movement Engine: Simulates gravity, acceleration, and surfing</a>\n\n' +
           "\nPROJECTS [PROGRAMMING]:\n\n" +
           '- <a href="https://youtu.be/DtTOlYAf0Yg" target="_blank">DSA Minesweeper: C-based Minesweeper using matrices</a>\n\n' +
-          '- <a href="https://youtu.be/Q5R49h9ZKE8" target="_blank">AI Movement Model: Uses a DNN and Supervised Learning to mimic real human movement</a>\n\n' +
+          '- <a href="https://youtu.be/GDuFlnfwylM" target="_blank">3D Engine: Basic scalable 3D Engine made in C++ to render and simulate things. Also supports textures</a>\n\n' +
           '- <a href="https://youtu.be/5C3OeCoaIQU" target="_blank">Neuron (Deep Learning Framework): Fast and Lightweight framework used for training Deep Neural Networks made in C++</a>\n\n' +
           '- <a href="https://youtu.be/946x71SoFnQ" target="_blank">AI Transformer Architecture: Full Transformer in Python with NumPy</a>\n\n';
         break;

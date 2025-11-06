@@ -1,7 +1,8 @@
 export const paragraph = `
 [START PARAGRAPH]
 
-Surround yourself with people who make you happy. People who make you laugh, who help you when you’re in need. People who genuinely care. They are the ones worth keeping in your life. Everyone else is just passing through. - Karl Marx
+“Envy is the religion of the mediocre. It comforts them, it soothes their worries, and finally it rots their souls, allowing them to justify their meanness and their greed until they believe these to be virtues. Such people are convinced that the doors of heaven will be opened only to poor wretches like themselves who go through life without leaving any trace but their threadbare attempts to belittle others and to exclude - and destroy if possible - those who, by the simple fact of their existence, show up their own poorness of spirit, mind, and guts. Blessed be the one at whom the fools bark, because his soul will never belong to them.”
+― Carlos Ruiz Zafón
 
 [END PARAGRAPH]
 `;
